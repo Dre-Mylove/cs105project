@@ -1,0 +1,50 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html><HTML lang="en" xmlns="http://www.w3.org/1999/xhtml"><HEAD><META 
+content="IE=9.0000" http-equiv="X-UA-Compatible">
+     
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="Unix_files/cssforbrian.css" 
+rel="stylesheet" type="text/css">     
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<DIV class="topnav">         <A class="active" href="file:///E:/Brian%20Kernighan%20web%20site/home.html#home"><A 
+href="file:///E:/Brian%20Kernighan%20web%20site/home.html">Home</A>         <A 
+href="file:///E:/Brian%20Kernighan%20web%20site/home.html#Belllabs"><A href="file:///E:/Brian%20Kernighan%20web%20site/BellLabs.html">Bell 
+Labs</A>         <A href="file:///E:/Brian%20Kernighan%20web%20site/home.html#Unix">Unix</A> 
+        <A href="file:///E:/Brian%20Kernighan%20web%20site/home.html#The C Programming Language">The 
+C Programming Language</A>     </DIV>
+<STYLE>
+    .parallax {
+        background-image: url("unix.png");
+
+        min-height: 650px;
+
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    </STYLE>
+ 
+<DIV class="parallax"></DIV>
+<DIV style="height: 1000px; font-size: 16px; background-color: white;">
+<H1>Who is Brian Kernighan?</H1>
+<P>Brian Kernighan is influential in the world of computing. He Worked at Bell 
+Labs for 30 years where he contributed to many projects; including the 
+development of Unix, A Mathematical Programming Language (AMPL), The first 
+documented “Hello World” program, and much more. Kernighan is the author of the 
+book The C Programming Language with co-author Dennis Ritchie, Ritchie is the 
+original language designer of C. His achievements are incredible and helped 
+shaped the world of computing as we know it today.</P>
+<P>Kernighan is not as well known as a Steve Jobs or Bill Gates, but one can 
+argue that his developments are just as important to computing as Gates and 
+jobs. Operating systems like Windows, Mac OS, and Linux would probably be very 
+different without taking inspiration from Unix. The programming languages that 
+are popular today, especially C++, are derived from the work that went into 
+developing and popularizing The C Programming language and the book by the same 
+name. Today he goes by Professor Kernighan, he taught a CS 50 glass at Harvard 
+and is now at Princeton which he graduated in 1969. </P>
+<H2>Accomplishments</H2>
+<UL style="list-style-type: circle;">
+  <LI>Creator of Unix</LI>
+  <LI>Writer of book "The C Programming Language"</LI>
+  <LI>Creator of the Hello World program</LI></UL></DIV></BODY></HTML>

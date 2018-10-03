@@ -1,0 +1,6 @@
+.topnav {
+	overflow: hidden; background-color: black;
+}
+.topnav a {
+	padding: 14px 16px; text-align: center; color: cornflowerblue; font-size: 17px; text-decoration: none; float: left;
+}

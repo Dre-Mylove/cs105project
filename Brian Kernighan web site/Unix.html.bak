@@ -1,0 +1,36 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html><HTML lang="en" xmlns="http://www.w3.org/1999/xhtml"><HEAD><META 
+content="IE=9.0000" http-equiv="X-UA-Compatible">
+     
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="Unix_files/cssforbrian.css" 
+rel="stylesheet" type="text/css">     
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<DIV class="topnav">         <A class="active" href="file:///E:/Brian%20Kernighan%20web%20site/home.html#home"><A 
+href="file:///E:/Brian%20Kernighan%20web%20site/index.html">Home</A>         <A 
+href="file:///E:/Brian%20Kernighan%20web%20site/home.html#Belllabs"><A href="file:///E:/Brian%20Kernighan%20web%20site/BellLabs.html">Bell 
+Labs</A>         <A href="file:///E:/Brian%20Kernighan%20web%20site/home.html#Unix"><a href="Unix.html">Unix</A> 
+        <!--<A href="file:///E:/Brian%20Kernighan%20web%20site/home.html#The C Programming Language">The*/ 
+C Programming Language</A>-->    </DIV>
+<STYLE>
+    .parallax {
+        background-image: url("unix.png");
+
+        min-height: 650px;
+
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    </STYLE>
+ 
+<DIV class="parallax"></DIV>
+<DIV style="height: 1000px; font-size: 16px; background-color: white;">
+<H1>Unix & The C Programming language</H1>
+<P>The Unix operating system was one of the things Kernighan helped developed that helped change the computer industry. At first Unix was developed to for use inside the bell system, or the companies owned by AT&T at the time. The operating system featured many things to be a convenient platform for developers including; a hierarchical file system, using lain text for storing data, treating devices as files, and many more. Kernighan summarizes this at the Unix Programming Environment and has been quoted as saying, “The idea that the power of a system comes more from the relationships among the programs than from the programs themselves”. The C programming language is what Unix was written in. Kernighan co-wrote the book “The C Programming Language” with the creator of C, Dennis Ritchie. This book was central to the development and popularization of the C Programming language and is still used today. The book introduced the “hello, world” program, to this day it is said to make sure a program is working the first thing you want to do in any language is write a program that outputs “Hello world”.</P>
+<H2>Unix Based Systems:</H2>
+<UL style="list-style-type: circle;">
+  <LI>Mac OS</LI>
+  <LI>Linux</LI>
+  </UL></DIV></BODY></HTML>
